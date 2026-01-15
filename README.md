@@ -15,7 +15,7 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern<br>I'm lo
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MrMadHatt&theme=github_dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrMadHatt&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=MrMadHatt&theme=shadow_green&column=7&margin-w=15)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -24,6 +24,6 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern<br>I'm lo
 ![](https://github-contributor-stats.vercel.app/api?username=MrMadHatt&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrMadHatt&icon=10&color=3)](https://visitcount.itsvg.in)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FMrMadHatt%2FMrMadHatt&labelColor=%23212121&countColor=%23263759&style=flat&label=Forge%20Visitors)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
