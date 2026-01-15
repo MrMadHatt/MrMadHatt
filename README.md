@@ -8,9 +8,9 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern<br>I'm lo
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MrMadHatt&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MrMadHatt&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrMadHatt&theme=github_dark&layout=compact&include_all_commits=true&count_private=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrMadHatt&theme=dark&layout=compact&include_all_commits=true&count_private=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MrMadHatt&theme=github_dark)](https://git.io/streak-stats)
 
