@@ -24,6 +24,6 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern<br>I'm lo
 ![](https://github-contributor-stats.vercel.app/api?username=MrMadHatt&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-![Visitors](https://img.shields.io/badge/dynamic/json?label=Forge%20Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMrMadHatt%2Fvisits&color=blue&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MrMadHatt.MrMadHatt&color=0077b5)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
