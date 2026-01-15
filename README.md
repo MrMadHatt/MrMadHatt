@@ -21,7 +21,7 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern<br>I'm lo
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=MrMadHatt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Top Repo](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MrMadHatt&repo=Lair-of-Xaldern&theme=dark)](https://github.com/MrMadHatt/Lair-of-Xaldern)
 
 ---
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MrMadHatt.MrMadHatt&color=0077b5)
