@@ -65,9 +65,22 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
 #### 🔝 Top Contributed Repo
 [![Top Repo](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MrMadHatt&repo=Lair-of-Xaldern&theme=dark)](https://github.com/MrMadHatt/Lair-of-Xaldern)
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MrMadHatt&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MrMadHatt&theme=github_dark)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrMadHatt&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=MrMadHatt&theme=github_dark" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.screw-hand.vercel.app/?username=MrMadHatt&theme=shadow_green&column=7&margin-w=15)
