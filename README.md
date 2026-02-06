@@ -1,5 +1,8 @@
 # 👨‍💻 About Me:
-I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern<br>I'm looking to collaborate on: Just about anything! Looking around to find my niche!<br>I'm looking for help with: Any resources, next steps, project ideas.<br>I'm currently learning: Python | HTML | CSS | Back/Front-end Development | Game Development
+I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern
+<br>I'm looking to collaborate on: Currently seeking opportunities to contribute to Open Source Python projects and Front-end Web Development.
+<br>I'm looking for help with: Exploring Backend Architecture and Advanced Game Logic—always open to resource recommendations!
+<br>I'm currently learning: Python | HTML | CSS | Back/Front-end Development | Game Development
 
 
 ## 🌐 Socials:
