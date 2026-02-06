@@ -21,9 +21,24 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern
 
 ### 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,sqlite,git,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,js&theme=dark" />
+  </a>
+</p>
+
+**Frontend & Web**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+  </a>
+</p>
+
+**Tools & Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode&theme=dark" />
   </a>
 </p>
 
