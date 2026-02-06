@@ -6,13 +6,13 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern<br>I'm lo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dominiq-barbero/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="mailto:mr.dom.barbero@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-%20-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30" width="40" />
-</a>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" />
+  </a>
   <a href="https://discord.com/users/1214759625195257871" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="25" />
   </a>
 </p>
 
