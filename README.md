@@ -1,12 +1,17 @@
-# 👨‍💻 About Me:
-I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern
-<br>I'm looking to collaborate on: Currently seeking opportunities to contribute to Open Source Python projects and Front-end Web Development.
-<br>I'm looking for help with: Exploring Backend Architecture and Advanced Game Logic—always open to resource recommendations!
-<br>I'm currently learning: Python | HTML | CSS | Back/Front-end Development | Game Development
+# 👨‍💻 About Me
 
+I'm a **Computer Science Student** and **Full-Stack Developer** focused on building engaging applications and games.
 
-## 🌐 Socials:
+- 🔭 **Currently Building:** [Lair of Xaldern](https://github.com/MrMadHatt/Lair-of-Xaldern) — An immersive game project.
+- 🤝 **Collaboration:** Looking to contribute to **Open Source Python** projects and modern **Front-end** builds.
+- 🔍 **Interests:** Deep diving into **Backend Architecture** and **Advanced Game Logic**.
+- ⚡ **Fun Fact:** I’m a fast learner currently expanding my stack into **React** and **Containerization**.
 
+---
+#### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 🌐 Socials: ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MrMadHatt.MrMadHatt&color=0077b5)
 <p align="left">
   <a href="https://www.linkedin.com/in/dominiq-barbero/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
@@ -21,44 +26,50 @@ I'm currently working on: https://github.com/MrMadHatt/Lair-of-Xaldern
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages & Web**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" />
   </a>
 </p>
 
-**Frontend & Web**
+**Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
   </a>
 </p>
 
-**Tools & Database**
+---
+
+### 📚 Learning
+
+**Frameworks & Environments**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
   </a>
 </p>
 
-# 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MrMadHatt&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+**Data, Infrastructure & Analysis**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,docker,jupyter&theme=dark" />
+  </a>
+</p>
+
+# 📊 GitHub Stats: 
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrMadHatt&theme=dark&layout=compact&include_all_commits=true&count_private=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 🔝 Top Contributed Repo
+[![Top Repo](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MrMadHatt&repo=Lair-of-Xaldern&theme=dark)](https://github.com/MrMadHatt/Lair-of-Xaldern)
+
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MrMadHatt&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MrMadHatt&theme=github_dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.screw-hand.vercel.app/?username=MrMadHatt&theme=shadow_green&column=7&margin-w=15)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-[![Top Repo](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MrMadHatt&repo=Lair-of-Xaldern&theme=dark)](https://github.com/MrMadHatt/Lair-of-Xaldern)
-
----
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MrMadHatt.MrMadHatt&color=0077b5)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
