@@ -75,8 +75,7 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
   </tr>
   <tr>
     <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=MrMadHatt&theme=github_dark" alt="GitHub Streak" width="100%" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MrMadHatt&theme=dark-smoky&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
       </a>
     </td>
   </tr>
