@@ -1,1 +1,6 @@
-<svg>...official Jupyter logo SVG content...</svg>
+<svg width="235" height="200" viewBox="0 0 235 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="117.5" cy="100" rx="105" ry="39.5" fill="#F37626"/>
+  <circle cx="35" cy="182" r="13" fill="#323232"/>
+  <circle cx="215" cy="18" r="13" fill="#323232"/>
+  <circle cx="11" cy="33" r="9" fill="#323232"/>
+</svg>
