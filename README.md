@@ -44,6 +44,13 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
 
 ### 📚 Learning
 
+**Languages & Web**
+<p align="left">
+  <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="25" />
+  </a>
+</p>
+
 **Frameworks & Environments**
 <p align="left">
   <a href="https://skillicons.dev">
