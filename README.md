@@ -69,8 +69,7 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite,docker,jupyter&theme=dark" />
   </a>
-  <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="25" />
+  <img src="wireshark.svg" alt="Wireshark" height="50">
   </a>
   <a href="https://nmap.org/" title="nmap" target="_blank">
     <img src="https://img.shields.io/badge/nmap-214478?style=flat-square&logoColor=white" height="25" />
