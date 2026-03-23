@@ -52,17 +52,12 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   </a>
-  <!-- New additions, each in their own <img> for easier editing -->
   <a href="https://www.kali.org/" title="Kali Linux" target="_blank">
     <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
   </a>
   <a href="https://www.linux.org/" title="Linux" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   </a>
-  <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" style="height:40px; width:auto; background:white; border-radius:8px; padding:4px;" alt="Wireshark" />
-  <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
-    <img src="https://www.wireshark.org/download/logo/wslogo.png" height="40" alt="Wireshark" />
 </a>
   </a>
 </p>
