@@ -70,9 +70,6 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
     <img src="https://skillicons.dev/icons?i=sqlite,docker&theme=dark" />
   </a>
   <a>
-  <img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" height="40">
-  </a>
-  <a>
   <img src="wireshark.svg" alt="Wireshark" height="50">
   </a>
   <a href="https://nmap.org/" title="nmap" target="_blank">
