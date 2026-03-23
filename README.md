@@ -46,8 +46,8 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
 
 **Languages & Web**
 <p align="left">
-  <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="25" />
+  <a href="https://www.linux.org/" title="Linux" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   </a>
 </p>
 
@@ -62,17 +62,15 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
   <a href="https://www.kali.org/" title="Kali Linux" target="_blank">
     <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
   </a>
-  <a href="https://www.linux.org/" title="Linux" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-  </a>
-</a>
-  </a>
 </p>
 
 **Data, Infrastructure & Analysis**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite,docker,jupyter&theme=dark" />
+  </a>
+  <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="25" />
   </a>
 </p>
 
