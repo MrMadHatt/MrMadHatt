@@ -81,12 +81,6 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
   <a href="https://www.metasploit.com/" title="Metasploit" target="_blank">
     <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white" height="25" />
   </a>
-  <a href="https://portswigger.net/burp" title="Burp Suite" target="_blank">
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.openwall.com/john/" title="John the Ripper" target="_blank">
-    <img src="https://img.shields.io/badge/John_the_Ripper-CC0000?style=flat-square&logoColor=white" height="25" />
-  </a>
 </p>
 
 # 📊 GitHub Stats: 
