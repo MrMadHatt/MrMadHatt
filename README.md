@@ -60,7 +60,7 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   </a>
   <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wireshark&theme=dark" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" style="height:40px; width:auto; background:white; border-radius:8px; padding:4px;" alt="Wireshark" />
   </a>
 </p>
 
