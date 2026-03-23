@@ -47,7 +47,20 @@ I'm a **Computer Science Student** and **Full-Stack Developer** focused on build
 **Frameworks & Environments**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  </a>
+  <!-- New additions, each in their own <img> for easier editing -->
+  <a href="https://www.kali.org/" title="Kali Linux" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
+  </a>
+  <a href="https://www.linux.org/" title="Linux" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+  </a>
+  <a href="https://www.wireshark.org/" title="Wireshark" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wireshark&theme=dark" />
   </a>
 </p>
 
