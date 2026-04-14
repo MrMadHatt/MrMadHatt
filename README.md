@@ -1,11 +1,14 @@
 # 👨‍💻 About Me
 
-I'm a **Computer Science Student** and **Full-Stack Developer** focused on building engaging applications and games.
+I'm an undergraduate student transitioning my academic and professional focus from Computer Science to **Cybersecurity**
 
-- 🔭 **Currently Building:** [Lair of Xaldern](https://github.com/MrMadHatt/Lair-of-Xaldern) — An immersive game project.
-- 🤝 **Collaboration:** Looking to contribute to **Open Source Python** projects and modern **Front-end** builds.
-- 🔍 **Interests:** Deep diving into **Backend Architecture** and **Advanced Game Logic**.
-- ⚡ **Fun Fact:** I’m a fast learner currently expanding my stack into **React** and **Containerization**.
+---
+
+### 🎯 Current Focus & Learning Path
+- 🛡️ **Defensive Security:** Studying SIEM tools and log analysis.
+- 🐍 **Security Automation:** Using Python to automate threat intelligence tasks.
+- 🌐 **Network Security:** Learning the ins and outs of the OSI model and packet analysis.
+- ✍️ **Certifications:** Currently preparing for CompTIA A+/Networking+.
 
 ---
 #### ✍️ Random Dev Quote
